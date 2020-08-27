@@ -91,6 +91,7 @@ opacity: 20%;
 
 ul#jogador-escolha li a:hover, ul#jogador-escolha li a.selecionado, ul#computador-escolha li a.selecionado{
 opacity: 100%;    
+cursor: pointer;
 }
 
 ul#jogador-escolha li a img, ul#computador-escolha li a img{
